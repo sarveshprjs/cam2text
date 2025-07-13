@@ -15,7 +15,7 @@ setup(
     long_description=open("README.md").read(),
     long_description_content_type='text/markdown',
     author='Sarvesh Upasani',
-    author_email='upasanisarvesh45.com',
+    author_email='upasanisarvesh45@gmail.com',
     url='https://github.com/sarveshprjs/cam2text',
     packages=find_packages(),
     install_requires=[
