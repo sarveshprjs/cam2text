@@ -71,7 +71,7 @@ Extracting meaningful text from live camera feeds remains a challenging task due
 ## Authors & Contributors
 
 - [Sarvesh](https://github.com/sarveshprjs) – Creator
-- [Your Name](https://github.com/yourusername) – Contributor
+- [Diksha](https://github.com/Diksha-3905) – Contributor
 
 ---
 
