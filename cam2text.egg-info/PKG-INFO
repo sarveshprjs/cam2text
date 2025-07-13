@@ -1,0 +1,28 @@
+Metadata-Version: 2.1
+Name: cam2text
+Version: 0.1.0
+Summary: Convert CCTV/video footage into readable activity text logs
+Home-page: https://github.com/sarveshprjs/cam2text
+Author: Sarvesh Upasani
+Author-email: upasanisarvesh45.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: opencv-python
+
+# cam2text
+
+`cam2text` is a Python library that converts CCTV or video footage into readable text reports.
+
+## Features
+- Detects people using MobileNet SSD
+- Outputs activity logs with timestamps
+- Simple to use and extend
+
+## Installation
+
+```bash
+pip install -e .

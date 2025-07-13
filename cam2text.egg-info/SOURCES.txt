@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+cam2text/__init__.py
+cam2text/core.py
+cam2text.egg-info/PKG-INFO
+cam2text.egg-info/SOURCES.txt
+cam2text.egg-info/dependency_links.txt
+cam2text.egg-info/requires.txt
+cam2text.egg-info/top_level.txt
+tests/test_core.py
